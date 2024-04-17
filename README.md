@@ -1,4 +1,7 @@
 # Internship
+
+This repository highlights the projects I undertook during my internship at Axle Informatics.
+
 ## Methodology:
 
 ### Nucleus Segmentation:
